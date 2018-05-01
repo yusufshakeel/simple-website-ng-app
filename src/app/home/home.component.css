@@ -1,0 +1,8 @@
+#hero-img {
+  height: 400px;
+  width: 100%;
+  background-attachment: fixed;
+  background-position: bottom center;
+  background-repeat: no-repeat;
+  background-image: url('assets/image/pexels-photo-355770.jpeg');
+}
